@@ -1,5 +1,3 @@
-// var svgweight = 950;
-// var svgheight = 500;
 
 function DrawBargraph(desiredSampleID) 
 {
